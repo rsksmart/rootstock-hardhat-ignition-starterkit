@@ -1,3 +1,9 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/rsksmart/rootstock-hardhat-ignition-starterkit/badge)](https://scorecard.dev/viewer/?uri=github.com/rsksmart/rootstock-hardhat-ignition-starterkit)
+[![CodeQL](https://github.com/rsksmart/rootstock-hardhat-ignition-starterkit/workflows/CodeQL/badge.svg)](https://github.com/rsksmart/rootstock-hardhat-ignition-starterkit/actions?query=workflow%3ACodeQL)
+
+
+
+
 # Roostock Hardhat Workshop Guide
 
 This project is designed to deploy smart contracts on the [Rootstock](https://rootstock.io/) network using [Hardhat Ignition](https://hardhat.org/ignition/docs/getting-started#overview) for deployment. We'll configure the network connection using the Rootstock [RPC API](https://rpc.rootstock.io/).
