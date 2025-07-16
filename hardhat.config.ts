@@ -20,7 +20,7 @@ if (!WALLET_PRIVATE_KEY) {
 }
 
 const config: HardhatUserConfig = {
-  solidity: "0.8.24",
+  solidity: "0.8.25",
   networks: {
     rskMainnet: {
       url: RSK_MAINNET_RPC_URL,
